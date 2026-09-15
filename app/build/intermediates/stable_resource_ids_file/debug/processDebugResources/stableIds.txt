@@ -1,0 +1,2 @@
+com.saurabh.messages:style/AppTheme = 0x7f020000
+com.saurabh.messages:color/app_background = 0x7f010000

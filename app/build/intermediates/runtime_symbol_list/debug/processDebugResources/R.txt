@@ -1,0 +1,2 @@
+int color app_background 0x7f010000
+int style AppTheme 0x7f020000

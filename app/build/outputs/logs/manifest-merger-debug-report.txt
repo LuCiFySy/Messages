@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:1:1-20:12
+	package
+		INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:3:5-18:19
+INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:3:5-18:19
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:5:9-33
+	android:theme
+		ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:4:9-40
+activity#com.saurabh.messages.MainActivity
+ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:7:9-16:20
+	android:exported
+		ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:9:13-36
+	android:name
+		ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:8:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/messages/app/src/main/AndroidManifest.xml

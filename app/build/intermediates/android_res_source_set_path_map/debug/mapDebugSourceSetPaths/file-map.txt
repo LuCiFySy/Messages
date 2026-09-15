@@ -1,0 +1,7 @@
+com.saurabh.messages.app-pngs-0 /data/data/com.termux/files/home/messages/app/build/generated/res/pngs/debug
+com.saurabh.messages.app-updated_navigation_xml-1 /data/data/com.termux/files/home/messages/app/build/generated/updated_navigation_xml/debug
+com.saurabh.messages.app-packageDebugResources-2 /data/data/com.termux/files/home/messages/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.saurabh.messages.app-packageDebugResources-3 /data/data/com.termux/files/home/messages/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.saurabh.messages.app-debug-4 /data/data/com.termux/files/home/messages/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.saurabh.messages.app-debug-5 /data/data/com.termux/files/home/messages/app/src/debug/res
+com.saurabh.messages.app-main-6 /data/data/com.termux/files/home/messages/app/src/main/res

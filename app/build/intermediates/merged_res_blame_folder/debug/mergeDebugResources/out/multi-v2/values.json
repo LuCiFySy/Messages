@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.saurabh.messages.app-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/messages/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "314"
+                    }
+                },
+                {
+                    "source": "/data/data/com.termux/files/home/messages/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "48",
+                        "endOffsets": "60"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/data/data/com.termux/files/home/.gradle/daemon/9.7.1/com.saurabh.messages.app-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/messages/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "226"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "265"
+                    }
+                }
+            ]
+        }
+    ]
+}
